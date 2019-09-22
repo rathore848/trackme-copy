@@ -1,13 +1,12 @@
 {
-  "name": "trackme",
+  "name": "mock",
   "version": "1.0.0",
-  "description": "a web interface to view TrackMe data",
-  "main": "server.js",
+  "description": "",
+  "main": "api.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon api.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "S.Rathore",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
